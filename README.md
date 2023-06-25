@@ -1,2 +1,3 @@
-# EpicArcheryC28
-Creating a player on a random base in archery 
+# Project 23
+
+Project Solution 23
